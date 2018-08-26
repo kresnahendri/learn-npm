@@ -2,6 +2,10 @@
 	"author": "Kresna Hendri",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"keywords": [
+		"npm",
+		"fCC"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
